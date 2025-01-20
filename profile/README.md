@@ -2,8 +2,8 @@
 
 Module delivered at City, University of London
 
-- [Python codes](https://github.com/city-knowledge-graphs/python-2024) academic year 2023-2024
-- [Java codes](https://github.com/city-knowledge-graphs/java-2024) academic year 2023-2024
+- [Python codes](https://github.com/city-knowledge-graphs/python-2025) academic year 2024-2025
+- [Java codes](https://github.com/city-knowledge-graphs/java-2025) academic year 2024-2025
 
 
 ## PhD courses
