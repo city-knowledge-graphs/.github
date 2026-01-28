@@ -2,8 +2,8 @@
 
 Module delivered at City St George's, University of London
 
-- [Python codes](https://github.com/city-knowledge-graphs/python-2025) academic year 2024-2025
-- [Java codes](https://github.com/city-knowledge-graphs/java-2025) academic year 2024-2025
+- **Academic year 2025-2026**: [Python codes](https://github.com/city-knowledge-graphs/python-2026) and [Java codes](https://github.com/city-knowledge-graphs/java-2026).
+- Academic year 2024-2025: [Python codes](https://github.com/city-knowledge-graphs/python-2025) and [Java codes](https://github.com/city-knowledge-graphs/java-2025).
 - [Material](https://github.com/turing-knowledge-graphs/teaching/tree/main/city) academic year 2023-2024
 
 ## PhD courses
